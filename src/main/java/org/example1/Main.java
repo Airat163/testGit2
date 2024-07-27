@@ -6,5 +6,9 @@ public class Main {
         int x = 18;
         String s;
         Character ch;
+        System.out.println("new branch 153");
+        int a = 100;
+        Long l = 10000L;
+
     }
 }
