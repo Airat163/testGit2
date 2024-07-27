@@ -6,6 +6,7 @@ public class Main {
         int x = 18;
         String s;
         System.out.println("new branch 153");
+        int a = 100;
 
     }
 }
