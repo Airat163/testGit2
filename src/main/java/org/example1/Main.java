@@ -3,6 +3,6 @@ package org.example1;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        int x;
+        int x = 18;
     }
 }
